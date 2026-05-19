@@ -51,7 +51,7 @@ Indicators will be standardized and directionally aligned to ensure comparabilit
 
 ### Project Structure
 - `/data/raw` → Original Eurostat datasets
-- - `/data/processed` → Cleaned and transformed analytical datasets
+-  `/data/processed` → Cleaned and transformed analytical datasets
 - `/docs` → Project planning and documentation
 
 
