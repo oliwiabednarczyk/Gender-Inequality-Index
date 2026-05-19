@@ -51,21 +51,22 @@ Indicators will be standardized and directionally aligned to ensure comparabilit
 
 ### Project Structure
 - `/data/raw` → Original Eurostat datasets
+- - `/data/processed` → Cleaned and transformed analytical datasets
 - `/docs` → Project planning and documentation
 
 
 ### Naming Conventions
 Dataset prefixes indicate project dimensions:
-- ec_ -> Economic Participation
-- ed_ -> Education
-- s_ -> Social Constraints
-- l_ -> Leadership
+- ec_ → Economic Participation
+- ed_ → Education
+- s_ → Social Constraints
+- l_ → Leadership
 
 ### Current Status
 - [x] Project planning
 - [x] Metric selection
 - [x] Raw data collection
-- [ ] Data cleaning & transformation
+- [x] Data cleaning & transformation
 - [ ] Standardization & direction alignment
 - [ ] Index construction
 - [ ] Dashboard development
